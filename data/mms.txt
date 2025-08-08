@@ -1,0 +1,5 @@
+merhaba bugun yeni gelitirdiimiz spislo tek portal talifimizu testediceiz bu bench mark asamasunda laytinisi memoril yuzic ve error rayit gibi metrikleri olteyoruz sittemimiz hem offline hem le real time streaming testeyi sunuyor ve oylece multilengul saport ile turkiya ve ingiliziz arasinda kesincesi gecis sarlayabiliyor api kredentiallari dat env dosyesina ekleyerek sekrte seviyemizi maksimumda tutuyoruz ayraca yuksek kaltele bir hay fidelati transcription elde etmek iin gelimi ses onlem ilen prosesing adamlar uyruluyoruz ritven bu metini cliar prolerensaitinla akeci bir deliveri sondaki meti ikarmamiim yau o s drun denicezs
+
+
+WER: 87.000
+Latency: 1.81s
