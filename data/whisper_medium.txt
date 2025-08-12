@@ -1,3 +1,3 @@
-Merhaba, bugün yeni geliştirdiğimiz Speech-to-Text prototipimizi test edeceğiz. Bu benchmark aşamasında Latency Memory Usage ve Error Rate gibi metrikleri ölçüyoruz. Zikremimiz hem offline hem de real-time streaming testi sunuyor. Böylece multilangal support ile Türkçe ve İngilizce sarısına kesinlikle geçiş sağlayabiliyor. API Credentialları .env dosyasını ekleyerek security seviyeyi maksimumda tutuyoruz. Ayrıca yüksek kalite bir high fidelity transcription elde etmek için gelişimçisi, önlem, işlem, processing, adımları uyguluyoruz. Merci et, gracias.
-
-WER: 86
+version https://git-lfs.github.com/spec/v1
+oid sha256:22aeb1ae91d2de5d14efcf291ab165cc24844fbb4b8c5f70e073fe035d080a75
+size 634
