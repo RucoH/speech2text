@@ -43,16 +43,16 @@ pip install -r requirements.txt
 ### 🎤 Record Audio from Microphone
 ```bash
 python record_voice.py \
-  --out data/recordings/demo.wav \
+  --out data/demo.wav \
   --seconds 15 \
   --rate 16000
 ```
 
 ### 🔍 Transcribe Audio (example)
 ```bash
-python src/transcribe_faster_whisper.py \
+python src/fasterwhisper_test.py \
   --model large-v3 \
-  --audio data/recordings/demo.wav \
+  --audio data/demo.wav \
   --language tr \
   --compute-type float16
 ```
