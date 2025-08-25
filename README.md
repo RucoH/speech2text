@@ -88,16 +88,6 @@ speech2text/
 * **FFmpeg missing:** Check with `ffmpeg -version` and install if missing.
 * **Long recordings cut off:** Increase segment length and enable `vad`.
 
-## 🗺 Roadmap
-
-- [ ] **Streaming ASR example:** Implement microphone → live transcript pipeline.
-- [ ] **YouTube audio ingestion:** Download and transcribe directly from YouTube URLs.
-- [ ] **Web interface:** Add Gradio or similar web UI for easy interaction.
-- [ ] **VAD & diarization:** Integrate voice activity detection and speaker separation.
-- [ ] **Benchmark dashboard:** Visualize latency, memory, and WER results.
-- [ ] **Language expansion:** Add support for more languages and accents.
-- [ ] **Deployment options:** Docker, Hugging Face Spaces, and cloud hosting.
-
 ## 📄 License
 
 Distributed under the [MIT License](LICENSE).
